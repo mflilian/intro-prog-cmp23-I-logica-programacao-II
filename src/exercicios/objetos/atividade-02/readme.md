@@ -13,5 +13,3 @@ Crie um objeto que represente o cartão de consumo de um cliente. Deve ter:
     - Quantidade comprada
 
 Pode inventar os dados. Coloque pelo menos 3 produtos.
-
-
